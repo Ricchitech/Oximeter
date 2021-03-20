@@ -80,17 +80,11 @@ Max30100 pulse Oximeter
 
 ![1](https://user-images.githubusercontent.com/35210955/111873573-e4c37500-89b6-11eb-8fb7-cc62896d3f15.png)
 
-### https://www.electroniclinic.com/wp-content/uploads/2020/02/MAX30100.zip" Download: Max30100 pulse Oximeter Arduino Library
-
 
 ### Interfacing Max30100 Pulse Oximeter Sensor and 16×2 LCD with Arduino Circuit Diagram:
 
 ![1](https://user-images.githubusercontent.com/35210955/111873627-44218500-89b7-11eb-9cd7-29e07b91cbe5.png)
 
-
-
-http://github.com - automatic!
-[GitHub](http://github.com)
 
 
 
